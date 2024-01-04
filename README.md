@@ -1,4 +1,4 @@
-# DPESTERLAB
+# DPEST LAB
 Linux Lab for Pentesting
 
 <a href="https://github.com/joao406/DPEST/releases/tag/latest">=> BAIXE AQUI <=</a>
